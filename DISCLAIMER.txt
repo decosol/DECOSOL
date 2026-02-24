@@ -1,0 +1,38 @@
+DECOSOL – Experimental Decompression Planner  
+Version: 1.0 beta  
+Last updated: 2026-02
+
+Software Disclaimer
+
+1.     Esclusione di Responsabilità ("AS IS")
+Il software DECOSOL v. 1.0 beta, programma sperimentale di calcolo decompressivo, in versione provvisoria v. 1.0 beta (di seguito "il Software" o “Decosol”) viene fornito "così com'è" ("as is"), senza garanzie di alcun tipo, esplicite o implicite, incluse, a titolo esemplificativo ma non esaustivo, garanzie di commerciabilità, idoneità a uno scopo particolare o non violazione di diritti di terzi.
+Il Software è stato realizzato da Luca Brambilla con il supporto di ChatGPT 5.2. 
+DECOSOL v. 1.0 beta è basato sul codice VPMB di Erik C. Baker di cui rappresenta una traduzione oltre a una implementazione di ZH-L1B/C di A. Buhlmann.
+L’autore del Software non garantisce che le funzioni contenute nel Software soddisfino le esigenze dell'utente, né che il funzionamento del Software sia ininterrotto o privo di errori.
+ 
+2.     Utilizzo a proprio rischio
+Scopo di DECOSOL v. 1.0 beta è quello di permettere approfondimenti sul piano teorico delle dinamiche decompressive in immersione subacquea.
+L'installazione e l'uso del Software avvengono a totale rischio dell'utente. L’Autore del Software non sarà responsabile per alcun danno diretto, indiretto, incidentale, speciale, consequenziale o esemplare, inclusi, senza limitazione, danni per perdita di profitti, dati, interruzione dell'attività o altri danni intangibili, derivanti dall'uso o dall'impossibilità di usare il Software, anche se informato della possibilità di tali danni.
+DECOSOL v. 1.0 beta è basato sul codice VPMB di Erik C. Baker di cui rappresenta una traduzione oltre a una implementazione di ZH-L1B/C di A. Buhlmann realizzate da Luca Brambilla con il supporto di ChatGPT 5.2.
+DECOSOL v. 1.0 beta non attiva controlli sui livelli delle pressioni parziali dei gas respirati e non ne limita quindi l’impiego anche in condizioni potenzialmente pericolose o addirittura letali come quelle legate a eccessi o carenze di ppO2, basandosi sia sul presupposto della adeguata preparazione sulla decompressione da parte dell’utente che sullo scopo meramente teorico e di studio di DECOSOL v. 1.0 beta.
+DECOSOL v. 1.0 beta non sostituisce addestramento, procedure operative, tabelle validate o strumenti certificati.
+ll Software è tutelato dalle leggi sul diritto d'autore e dai trattati internazionali. Il Software viene concesso in licenza d'uso gratuita, non venduto.
+Scaricando e installando il Software, l'utente accetta i termini di questa dichiarazione di non responsabilità.
+
+
+Software Disclaimer
+1. Limitation of Liability (“AS IS”)
+
+DECOSOL v. 1.0 beta, an experimental decompression calculation program, provisional version v. 1.0 beta (hereinafter referred to as the “Software” or “Decosol”), is provided “as is”, without warranty of any kind, either express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement of third-party rights.
+The Software was developed by Luca Brambilla with the support of ChatGPT 5.2.
+DECOSOL v. 1.0 beta is based on Erik C. Baker’s VPMB code, of which it represents a translation, as well as an implementation of A. Bühlmann’s ZH-L16B/C model.
+The author of the Software does not warrant that the functions contained in the Software will meet the user’s requirements, nor that the operation of the Software will be uninterrupted or error-free.
+
+2. Use at Your Own Risk
+The purpose of DECOSOL v. 1.0 beta is to allow theoretical exploration of decompression dynamics in scuba diving.
+Installation and use of the Software are entirely at the user’s own risk. The Author shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including, without limitation, damages for loss of profits, data, business interruption, or other intangible losses, arising out of or relating to the use of, or inability to use, the Software, even if advised of the possibility of such damages.
+DECOSOL v. 1.0 beta is based on Erik C. Baker’s VPMB code, representing a translation thereof, as well as an implementation of A. Bühlmann’s ZH-L16B/C model, developed by Luca Brambilla with the support of ChatGPT 5.2.
+DECOSOL v. 1.0 beta does not perform checks on the partial pressure levels of breathing gases and therefore does not restrict its use even under potentially dangerous or even lethal conditions, such as those related to excessive or insufficient ppO₂. This is based on the assumption that the user possesses adequate training in decompression theory and on the purely theoretical and educational purpose of DECOSOL v. 1.0 beta.
+DECOSOL v. 1.0 beta does not replace formal training, operational procedures, validated decompression tables, or certified instruments.
+The Software is protected by copyright laws and international treaties. The Software is licensed for free use and is not sold.
+By downloading and installing the Software, the user accepts the terms of this disclaimer.
